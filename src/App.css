@@ -1,0 +1,10 @@
+
+.container {
+  display: flex;
+}
+
+.header {
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+}
